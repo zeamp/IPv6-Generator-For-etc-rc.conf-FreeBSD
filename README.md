@@ -1,4 +1,5 @@
-# IPv6 Generator For /etc/rc.conf (FreeBSD) v1.0
+# IPv6 Generator For /etc/rc.conf (FreeBSD) v1.0 by @zeampvqtx
+(https://vqtx.com)
 
  This script generates a list of IPv6 addresses to be added
  into your FreeBSD 12 (or higher) /etc/rc.conf file. I wrote this
@@ -18,7 +19,7 @@
  Since I have additional IPv4 taking up that space, you'll want
  to change these values to match yours.
 
-# vtnet alias start: 4 (end 260)
-# ipv6 ip start: 8001 (end 8257)
-# ipv6 address space: 2001:19f0:9002:bc8:5400:02ff:feff:
-# adding 256 additional IPs
+vtnet alias start: 4 (end 260)
+ipv6 ip start: 8001 (end 8257)
+ipv6 address space: 2001:19f0:9002:bc8:5400:02ff:feff:
+adding 256 additional IPs
