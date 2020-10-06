@@ -20,6 +20,9 @@
  to change these values to match yours.
 
 vtnet alias start: 4 (end 260)
+
 ipv6 ip start: 8001 (end 8257)
+
 ipv6 address space: 2001:19f0:9002:bc8:5400:02ff:feff:
+
 adding 256 additional IPs
